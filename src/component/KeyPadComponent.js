@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import '../assets/css/sytyle.css';
+import '../assets/css/style.css';
 
 class KeyPadComponent extends Component {
     render() {
